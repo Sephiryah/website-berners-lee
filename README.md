@@ -9,3 +9,6 @@ Changelog :
     - v0.2  - Modified structure of repository
             - Added a button who link to Linkedin Website in the Intro part HTML
             - Added a part "Favorite Movies" in HTML
+    - vO.3  - Added a list of Social Media
+            - Remove <h3> tags and put <p> and <strong> tag for Movie Title
+    - v0.31 - Fixe of the icon not appearing
