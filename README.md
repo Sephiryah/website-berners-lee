@@ -13,3 +13,4 @@ Changelog :
             - Remove <h3> tags and put <p> and <strong> tag for Movie Title
     - v0.31 - Fixe of the icon not appearing
     - v0.32 - Fix of Linkedin Icon not appearing
+    - v1    - Added CSS
