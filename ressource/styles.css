@@ -9,7 +9,7 @@ section{
     width: 50%;
     margin: 25px auto;
     border-radius: 5px;
-    padding: 10px;
+    padding: 20px;
 }
 
 #tim {
@@ -17,14 +17,14 @@ section{
     border-radius: 115px;
     width: 25%;
     border: 3px solid lightgray;
-    margin: 0px auto;
+    margin: 30px auto;
 }
 
 h1{
     text-align: center;
     font-weight: 800;
     color: red;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h2{
@@ -53,11 +53,13 @@ h2{
 
 #movie img {
     float: left;
+    margin: 0px 60px;
 }
 
 .syno{
     float: left;
     max-width: 50%;
+    text-align: justify;
 }
 
 #movie{
@@ -67,6 +69,7 @@ h2{
 #social_media a{
     color: lightgray;
     text-decoration: none;
+    font-size: 30px;
 }
 ul {
     text-align: center;
@@ -74,4 +77,13 @@ ul {
 
 li {
     display: inline-block;
+    margin: 40px 20px;
+}
+
+#movie h2{
+    margin: 60px auto;
+}
+
+.movie_title{
+    margin-left: 50%;
 }
